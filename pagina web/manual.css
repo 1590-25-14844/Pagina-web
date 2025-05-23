@@ -1,0 +1,9 @@
+body,html{
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+    width: 100vw;
+       background: url(imagenes/fondo\ 2.png) center center;
+    background-size: cover;
+
+    
+}
